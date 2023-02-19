@@ -1,9 +1,12 @@
 #include <stdio.h>
+
+
 /**
- * main -print out sizes of data types in c
- * code by bwave ict
+ * main -print the size of various typesa based on
+ * the computer it is compiled and run on..
  * Return: 0
 */
+
 int main(void)
 {
 	char a;
